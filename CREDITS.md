@@ -1,1 +1,1 @@
-Texture based on Block of Coal texture by Jasper 'JAPPA' Boerstra: https://twitter.com/JasperBoerstra/
+Texture based on Block of Coal texture by <a href="https://twitter.com/JasperBoerstra/">Jasper 'JAPPA' Boerstra</a>.
